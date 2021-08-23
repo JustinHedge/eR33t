@@ -1,2 +1,2 @@
-# eR33t
-eR33t Gaming 
+# eR33t Gaming
+Hello, user. Welcome to the eR33t Gaming repo.
